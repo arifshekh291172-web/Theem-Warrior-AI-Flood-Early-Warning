@@ -2,7 +2,7 @@
 
 FloodGuard AI is an AI-powered early flood warning system designed to monitor environmental conditions, predict flood risk, and provide timely alerts to authorities and communities.
 
-The system combines IoT sensors, real-time weather and water-level data, cloud data processing, Machine Learning, risk scoring, and an interactive dashboard to enable faster and data-driven flood response.
+The system combines  real-time weather and water-level data, cloud data processing, Machine Learning, risk scoring, and an interactive dashboard to enable faster and data-driven flood response.
 
 ## 🚀 Key Features
 
