@@ -8,7 +8,6 @@ The system combines IoT sensors, real-time weather and water-level data, cloud d
 
 - 🌧️ Real-time rainfall and weather monitoring
 - 💧 Water-level monitoring using IoT sensors
-- 📡 ESP32/ESP8266-based sensor data collection
 - 🤖 AI/ML-based flood risk prediction
 - 📊 Zone-wise flood risk classification
 - 🚨 Automated alerts and notifications
