@@ -18,9 +18,6 @@ The system combines IoT sensors, real-time weather and water-level data, cloud d
 - 🏢 Authority/control-room monitoring
 
 ## 🛠️ Technology Stack
-
-- ESP32 / ESP8266
-- IoT Sensors
 - Python
 - Machine Learning
 - MongoDB
