@@ -29,9 +29,6 @@ The system combines IoT sensors, real-time weather and water-level data, cloud d
 
 To provide an affordable, scalable, and intelligent flood monitoring solution that can detect rising flood risk early and support faster emergency response.
 
-## 🏆 Hackathon
-
-Developed as an idea for **Smart India Hackathon 2026 (SIH 2026)**.
 
 **Project:** FloodGuard AI  
-**Domain:** AI/ML + IoT + Disaster Management
+**Domain:** AI/ML+ Disaster Management
